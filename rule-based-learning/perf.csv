@@ -1,21 +1,201 @@
 Age,Gender,Race,Education,Years of Experience,Number of Active Projects,Number of Features Shipped,Teammate Rating,Performance Rating
-58,Female,Asian,Doctorate,33,1,6,4,Poor
-48,Male,Other,Master's,9,1,6,5,Poor
-34,Male,Asian,Master's,35,1,7,3,Fair
-27,Female,Other,Bachelor's,13,4,4,1,Fair
-40,Female,White,High School,30,3,2,4,Fair
-58,Male,Black,Doctorate,14,3,7,5,Good
-38,Male,Hispanic,Bachelor's,7,1,5,4,Fair
-42,Male,White,Doctorate,13,3,2,5,Good
-30,Non-Binary,Hispanic,Doctorate,22,3,0,5,Fair
-30,Non-Binary,Black,Bachelor's,39,1,2,3,Poor
-43,Non-Binary,Black,Bachelor's,20,3,4,5,Fair
-55,Female,White,Bachelor's,15,5,2,4,Poor
-59,Non-Binary,Black,Bachelor's,17,2,0,5,Fair
-43,Female,Other,Bachelor's,23,2,4,3,Fair
-22,Female,Black,Doctorate,25,1,9,3,Fair
-41,Non-Binary,Hispanic,Bachelor's,24,4,6,4,Fair
-21,Female,Hispanic,High School,40,1,6,2,Poor
-43,Non-Binary,Hispanic,Master's,28,4,8,2,Fair
-49,Non-Binary,Hispanic,Bachelor's,14,2,9,5,Fair
-57,Male,Other,Bachelor's,0,1,9,1,Poor
+58,Non-Binary,Hispanic,Master,6,5,2,3,Fair
+48,Male,Asian,Master,3,4,5,5,Good
+34,Male,Hispanic,High School,11,3,7,3,Good
+27,Male,Other,Doctorate,2,1,8,2,Good
+40,Non-Binary,Black,Bachelor,12,3,6,1,Fair
+58,Male,Hispanic,Master,1,3,3,2,Good
+38,Female,Black,Master,6,5,5,2,Fair
+42,Non-Binary,Asian,Bachelor,12,4,4,5,Fair
+30,Male,White,Bachelor,5,2,7,1,Good
+30,Male,Asian,Master,14,4,0,1,Fair
+43,Non-Binary,Hispanic,Master,14,4,0,1,Fair
+55,Male,Black,Bachelor,11,3,5,1,Good
+59,Non-Binary,Black,Master,9,4,9,1,Fair
+43,Female,Other,High School,1,1,1,5,Poor
+22,Non-Binary,Black,High School,7,3,4,3,Fair
+41,Non-Binary,Other,Bachelor,5,1,0,2,Poor
+21,Male,White,Doctorate,5,2,6,1,Good
+43,Male,Hispanic,Bachelor,14,3,0,3,Fair
+49,Male,Other,Bachelor,2,2,3,3,Good
+57,Male,White,Doctorate,11,3,8,2,Good
+21,Female,Black,Doctorate,3,5,0,5,Fair
+40,Male,Black,Doctorate,7,4,3,4,Good
+52,Non-Binary,White,High School,6,5,5,4,Good
+31,Male,Black,Master,12,2,5,3,Good
+41,Male,White,High School,2,4,7,2,Good
+44,Male,Other,Master,6,3,0,4,Good
+46,Female,Other,High School,2,4,6,3,Fair
+47,Male,White,Master,2,1,0,5,Poor
+35,Female,Other,High School,2,4,6,4,Fair
+34,Non-Binary,Other,Doctorate,14,1,2,3,Fair
+22,Male,Other,Bachelor,11,4,7,3,Good
+56,Female,Asian,High School,3,1,2,1,Fair
+26,Male,Hispanic,Master,2,2,0,5,Good
+40,Male,Black,Doctorate,4,5,7,1,Good
+28,Male,Asian,High School,9,3,2,2,Good
+58,Male,Other,High School,6,4,1,1,Fair
+37,Female,White,Doctorate,1,5,0,1,Fair
+23,Male,Other,High School,8,3,2,4,Good
+44,Male,Hispanic,Bachelor,12,3,1,3,Fair
+33,Male,Other,High School,14,1,1,5,Fair
+28,Female,White,Bachelor,7,2,5,1,Fair
+45,Female,Hispanic,Bachelor,10,2,0,5,Good
+21,Non-Binary,Other,Doctorate,3,5,1,1,Fair
+39,Male,Hispanic,High School,1,2,5,2,Good
+47,Male,Black,Doctorate,5,4,2,1,Good
+26,Non-Binary,Black,High School,13,2,3,4,Fair
+27,Non-Binary,Other,High School,4,5,0,3,Poor
+54,Non-Binary,Hispanic,Master,10,2,7,2,Fair
+33,Male,White,High School,8,4,6,1,Good
+36,Male,Other,Doctorate,1,1,6,5,Good
+55,Male,Black,Bachelor,10,5,2,2,Good
+59,Male,Black,High School,1,1,9,2,Good
+23,Non-Binary,Other,Master,12,1,9,1,Fair
+21,Male,Hispanic,Doctorate,4,1,2,2,Good
+25,Male,Black,High School,8,3,1,5,Good
+23,Male,Hispanic,Doctorate,5,3,0,2,Fair
+48,Male,Black,Master,2,1,6,5,Good
+37,Male,Black,Master,6,5,6,1,Good
+45,Non-Binary,Asian,Doctorate,5,4,1,3,Fair
+53,Male,Black,High School,2,4,6,2,Good
+29,Male,White,Bachelor,13,2,7,3,Good
+55,Non-Binary,Other,Master,14,5,0,5,Poor
+33,Male,Other,High School,11,3,8,2,Good
+50,Female,Hispanic,High School,11,1,6,4,Fair
+34,Female,Black,Bachelor,11,2,2,3,Good
+27,Male,White,Master,3,4,7,2,Good
+33,Female,Hispanic,Master,9,3,6,3,Fair
+42,Female,Asian,High School,7,3,7,2,Good
+59,Male,Hispanic,High School,7,1,5,1,Good
+40,Non-Binary,Hispanic,Bachelor,11,4,8,3,Fair
+35,Female,Black,Bachelor,6,5,4,4,Good
+37,Male,Asian,Master,8,3,2,4,Good
+43,Male,Hispanic,Doctorate,4,1,2,5,Good
+45,Male,White,Master,8,5,0,2,Poor
+44,Male,White,High School,4,4,7,3,Good
+60,Male,Other,Master,8,3,1,5,Good
+48,Male,Asian,Doctorate,9,5,2,3,Good
+34,Female,Asian,Bachelor,3,5,7,2,Good
+20,Male,Other,Doctorate,3,5,7,4,Good
+44,Non-Binary,Hispanic,Doctorate,11,3,3,1,Good
+26,Male,Asian,Doctorate,13,3,3,4,Good
+28,Male,White,Bachelor,2,2,4,5,Good
+43,Male,White,Doctorate,13,4,5,1,Good
+20,Non-Binary,Black,Doctorate,10,1,4,5,Fair
+27,Non-Binary,Asian,Doctorate,3,5,6,2,Fair
+43,Male,Hispanic,High School,3,2,1,1,Fair
+30,Male,Other,Doctorate,5,1,6,5,Good
+36,Male,Other,Bachelor,5,2,9,2,Good
+27,Male,Hispanic,Doctorate,2,3,6,4,Good
+54,Male,Black,Doctorate,12,5,0,2,Poor
+54,Male,Other,Bachelor,10,1,6,3,Good
+52,Female,Asian,Doctorate,13,1,4,2,Good
+24,Non-Binary,Black,Bachelor,6,1,2,2,Fair
+58,Male,Asian,Doctorate,5,1,2,3,Good
+60,Non-Binary,White,Bachelor,6,1,3,5,Good
+47,Non-Binary,Black,Doctorate,1,2,1,5,Fair
+26,Female,Other,Doctorate,5,5,1,2,Poor
+28,Female,Black,High School,9,3,0,3,Fair
+27,Male,Black,High School,12,3,4,3,Good
+31,Male,Black,Doctorate,10,3,3,4,Good
+53,Male,Black,Doctorate,14,3,9,5,Good
+52,Male,Asian,Master,2,2,1,1,Fair
+42,Female,White,Bachelor,1,4,2,5,Good
+43,Male,Hispanic,Master,14,5,6,5,Good
+56,Female,Black,High School,10,1,6,4,Fair
+54,Non-Binary,Other,High School,13,4,3,1,Fair
+59,Male,Black,High School,11,3,4,4,Good
+41,Non-Binary,Other,High School,9,4,4,1,Fair
+46,Male,Asian,Doctorate,10,5,5,2,Good
+54,Male,Other,High School,9,1,8,1,Good
+20,Male,Hispanic,Doctorate,9,1,1,4,Fair
+54,Male,White,Doctorate,6,5,4,5,Good
+56,Male,Other,High School,8,5,2,1,Good
+33,Female,Other,High School,14,3,3,1,Fair
+22,Male,White,Bachelor,11,1,9,3,Good
+20,Female,Hispanic,Master,13,4,5,5,Fair
+24,Male,Black,High School,1,2,7,2,Good
+45,Non-Binary,Other,Bachelor,10,2,0,4,Fair
+33,Male,White,Bachelor,4,5,9,2,Good
+58,Male,Asian,Master,1,3,7,5,Good
+46,Female,White,Doctorate,8,2,6,1,Fair
+28,Female,Asian,High School,1,1,0,1,Fair
+34,Male,Hispanic,Master,3,5,1,5,Fair
+34,Male,Black,High School,13,4,2,1,Good
+45,Female,White,Bachelor,4,5,0,1,Poor
+32,Non-Binary,Other,Bachelor,8,4,8,1,Fair
+51,Male,Hispanic,Doctorate,6,5,7,4,Good
+58,Male,White,Bachelor,14,5,1,4,Poor
+51,Male,Other,Bachelor,10,5,8,3,Good
+23,Female,White,Master,12,4,6,2,Fair
+49,Female,Asian,High School,7,4,8,5,Good
+56,Male,White,High School,14,5,5,5,Good
+42,Non-Binary,White,Master,8,2,5,5,Fair
+58,Female,White,Doctorate,2,3,3,3,Good
+34,Male,Hispanic,High School,13,3,9,4,Good
+48,Female,White,Bachelor,10,3,9,3,Fair
+55,Male,Other,High School,14,4,1,5,Good
+32,Female,Asian,Bachelor,11,4,6,2,Fair
+51,Non-Binary,Asian,Doctorate,8,2,4,1,Fair
+26,Male,White,Master,3,3,5,4,Good
+41,Female,Hispanic,High School,7,3,1,4,Fair
+47,Male,Hispanic,Master,3,5,4,3,Good
+21,Female,Other,High School,7,4,9,4,Fair
+25,Non-Binary,White,Bachelor,14,3,3,5,Fair
+47,Female,Asian,Master,11,2,8,5,Fair
+47,Female,Hispanic,High School,12,2,5,3,Good
+39,Female,White,Bachelor,13,3,1,5,Fair
+49,Male,Hispanic,Master,2,4,0,2,Fair
+30,Male,Hispanic,Master,10,2,4,3,Good
+47,Male,Asian,High School,6,5,8,2,Good
+44,Non-Binary,Black,High School,3,2,5,1,Fair
+58,Male,Other,High School,3,1,9,2,Good
+52,Female,Other,Bachelor,9,1,6,1,Fair
+20,Female,Asian,High School,7,4,4,1,Fair
+46,Female,Hispanic,Master,5,3,9,2,Fair
+32,Non-Binary,White,Master,12,4,5,3,Fair
+60,Female,Hispanic,High School,10,4,4,5,Good
+22,Male,Asian,High School,7,4,8,5,Good
+58,Female,Other,Doctorate,9,4,5,1,Fair
+25,Male,Hispanic,Master,1,5,7,1,Good
+27,Female,Other,Bachelor,7,5,1,3,Fair
+46,Male,White,Doctorate,6,2,8,4,Good
+28,Male,Other,High School,10,1,4,2,Good
+56,Female,Other,High School,14,4,6,1,Fair
+52,Male,Black,Master,12,2,9,5,Good
+43,Male,Black,High School,9,1,0,3,Fair
+34,Male,Black,Bachelor,1,3,9,2,Good
+51,Male,Other,Master,13,5,4,3,Good
+51,Male,Asian,High School,4,1,9,2,Good
+43,Non-Binary,Other,Master,9,3,1,2,Fair
+60,Male,Asian,High School,4,1,5,1,Good
+31,Female,Asian,High School,10,5,0,3,Fair
+58,Female,Black,High School,3,5,2,3,Fair
+21,Male,Hispanic,Bachelor,9,2,4,5,Good
+22,Non-Binary,White,Bachelor,13,4,3,5,Fair
+56,Male,Black,Master,2,1,2,1,Good
+36,Female,Black,High School,4,1,9,1,Good
+21,Male,Hispanic,High School,6,3,4,4,Good
+21,Female,White,Bachelor,2,5,7,5,Good
+47,Male,Other,High School,8,1,3,2,Good
+42,Female,Other,Bachelor,8,5,0,3,Fair
+56,Female,Black,High School,1,1,6,1,Fair
+51,Male,White,Master,12,2,7,3,Good
+52,Male,Black,High School,3,4,2,3,Good
+20,Male,Asian,High School,10,1,5,4,Good
+38,Female,Black,Doctorate,9,5,1,5,Fair
+21,Male,Black,Bachelor,5,2,6,1,Good
+45,Male,Other,High School,6,1,7,3,Good
+51,Non-Binary,Other,High School,4,3,5,1,Fair
+25,Male,Other,Doctorate,10,4,5,2,Good
+51,Female,Asian,Doctorate,2,1,4,4,Fair
+23,Male,Other,Bachelor,11,2,7,2,Good
+30,Female,White,Doctorate,8,3,0,1,Good
+36,Male,Hispanic,Master,11,2,9,1,Good
+57,Male,White,Doctorate,13,2,3,5,Good
+43,Male,White,Master,6,3,3,3,Good
+24,Female,Other,Bachelor,5,2,2,3,Good
+53,Male,Hispanic,Bachelor,9,3,2,2,Good
+25,Male,Hispanic,Bachelor,1,1,3,4,Good
+41,Female,Hispanic,Bachelor,5,3,0,3,Fair
